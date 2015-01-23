@@ -2,6 +2,13 @@
 
 Bring legendary saiyans to your console.
 
+
+## Install
+
+```
+npm install kamehameha.js
+```
+
 ## How to use
 
 ```js
