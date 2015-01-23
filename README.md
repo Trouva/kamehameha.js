@@ -2,6 +2,7 @@
 
 Bring legendary saiyans to your console.
 
+![Demo](http://g.recordit.co/gEZUwIElLa.gif)
 
 ## Install
 
