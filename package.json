@@ -1,0 +1,25 @@
+{
+  "name": "kamehameha.js",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StreetHub/kamehameha.js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StreetHub/kamehameha.js/issues"
+  },
+  "homepage": "https://github.com/StreetHub/kamehameha.js",
+  "dependencies": {
+    "cli-frames": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}
